@@ -21,7 +21,7 @@
         "grunt-contrib-watch": "~0.5.1",
         "grunt-recess": "~0.3.3"
     },
-    "homepage": "https://github.com/ashleydw/lightbox",
+    "homepage": "https://github.com/berny900/lightbox",
     "authors": [
         "ashleydw <hello@ashleyd.ws>"
     ],
